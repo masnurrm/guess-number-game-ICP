@@ -2,7 +2,7 @@
 
 ## Team
 
-Hello, we are from **`Fafife Maqin Yaqin`**!.
+Hello, we are from **`Fafife Maqin Yaqin`**!
 
 ## Overview
 
