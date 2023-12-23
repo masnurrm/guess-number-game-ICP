@@ -1,4 +1,8 @@
-# simple_guessing_game
+# simple_number_guessing_game
+
+## Team
+
+Hello, we are from **`Fafife Maqin Yaqin`**!.
 
 ## Overview
 
@@ -37,7 +41,7 @@ You can run this project by running the following command:
 1. Clone the repository.
  
     ```
-    git clone 
+    git clone https://github.com/masnurrm/guess-number-game-ICP.git
     ```
 
 2. Install the dependencies.
